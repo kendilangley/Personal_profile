@@ -1,0 +1,29 @@
+h2 {
+	color: blue;
+
+}
+h1 {
+	color:red;
+}
+
+
+body{
+	background-color:green;
+	background-image: url("https://www.warrenphotographic.co.uk/photography/bigs/41059-Cute-Yellow-Labrador-puppy-in-play-bow-white-background.jpg");
+}
+img {
+    opacity:0.3;
+    filter: alpha(opacity=50);
+}
+
+.color {
+	color: red;
+}
+
+.kendi {
+	color: blue; 
+} 
+
+.food {
+	color: yellow;
+}
